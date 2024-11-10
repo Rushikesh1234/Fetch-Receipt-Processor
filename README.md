@@ -92,8 +92,8 @@ Docker
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/fetch-receipt-processor.git
-cd fetch-receipt-processor
+git clone https://github.com/Rushikesh1234/Fetch-Receipt-Processor.git
+cd Fetch-Receipt-Processor
 ```
 
 ### 2. Run the Project Locally
